@@ -1,0 +1,45 @@
+{
+  "files" : {
+    ".gitignore" : {
+      "sha1" : "MmXoWzc8CV/JCl41uc0Ak4ivseM=",
+      "size" : 139
+    },
+    ".yarnignore" : {
+      "sha1" : "4SLhRnyg+tD/+ndNXdsmdpsl0qY=",
+      "size" : 66
+    },
+    "build/index.js" : {
+      "sha1" : "gZMAmDqeY3T+EHYVZTxVnZW0VbA=",
+      "size" : 16454
+    },
+    "code/canvas.tsx" : {
+      "sha1" : "XAWJ2Vc6zFl/c1ILjaRwb7ijf8Q=",
+      "size" : 179
+    },
+    "code/Examples.tsx" : {
+      "sha1" : "lUV35hS3rcE/Vwe/FKuuRgzCdDc=",
+      "size" : 1396
+    },
+    "design/document.json" : {
+      "sha1" : "8/DOOxS0v/QAFB940tGrDyJi12g=",
+      "size" : 4365
+    },
+    "package.json" : {
+      "sha1" : "jBbg3M3Su24btCcmc1NISTmHDRo=",
+      "size" : 284
+    },
+    "README.md" : {
+      "sha1" : "2jmj7l5rSw0yVb/vlWAYkK/YBwk=",
+      "size" : 0
+    },
+    "tsconfig.json" : {
+      "sha1" : "SdmzWRfeZvULVchW1E8DFxKSyZ8=",
+      "size" : 344
+    },
+    "yarn.lock" : {
+      "sha1" : "Zf+64UieDVQGJar+BRskaUmuw3I=",
+      "size" : 950
+    }
+  },
+  "uuid" : "C47CAE91-C0EB-41AC-B434-A878E2145819"
+}
